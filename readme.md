@@ -1,12 +1,14 @@
+# <👏 Hello, World /> 
+
 ![](/img/header.png)
 
-# About me
+## About me
 
 - 🙌 Gabor
 - 🚀 Full-Stack Developer
 - 📍 Germany
 
-# My Tech-Stack
+## My Tech-Stack
 
 - 💻 Backend: PHP, NodeJS, Go
 - 🎨 Frontend: AlpineJS, VueJS, NuxtJS, TailwindCSS, Svelte, Astro
@@ -18,7 +20,7 @@
 - 🛠️ DevOps: AWS, Github Actions, Gitlab Actions, CI/CD
 - Managing: Jira, Confluence, Notion
 
-# My Setup
+## My Setup
 
 - OS: Arch Linux
 - Window Manager: BSPWM
