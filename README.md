@@ -7,7 +7,7 @@
 - 🙌 Gabor
 - 🚀 Full-Stack Developer
 - 📍 Germany
-- 🎉 Zertified Laravel Developer
+- 🎉 Certified Laravel Developer
 
 ## My Tech-Stack
 
