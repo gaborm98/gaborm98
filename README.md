@@ -7,6 +7,7 @@
 - 🙌 Gabor
 - 🚀 Full-Stack Developer
 - 📍 Germany
+- 🎉 Zertified Laravel Developer
 
 ## My Tech-Stack
 
@@ -14,9 +15,9 @@
 - 🎨 Frontend: AlpineJS, VueJS, NuxtJS, TailwindCSS, Svelte, Astro
 - 🥇 Frameworks: Laravel
 - ✨ Tools:
-    - Database: Redis, MySQL, MariaDB, PostgreSQL, SQLite
-    - API: Rest-API, GraphQL, gRPC
-    - Other: Docker, Kubernetes, Terraform
+    - Database: Redis, MySQL, PostgreSQL, SQLite
+    - API: Rest-API, gRPC
+    - Other: Docker
 - 🛠️ DevOps: AWS, Github Actions, Gitlab Actions, CI/CD
 - Managing: Jira, Confluence, Notion
 
